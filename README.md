@@ -81,7 +81,7 @@ All generated plots are stored in the `charts/` directory:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/superstore-data-analytics.git
+git clone https://github.com/akhil0102/superstore-data-analytics.git
 cd superstore-data-analytics
 ```
 
